@@ -38,7 +38,7 @@ cd src
 
 
 
-# CRUD realizado através da implementação de objetos no Spring ou através de chamadas no serviço pelo Postman usando GET, POST, DELETE, PUT. 
+# CRUD realizado através da implementação de objetos no Spring ou através de chamadas no serviço pelo Postman. 
 ```
 AS requisições ao webservice são realizadas pela URL: http://localhost:8080/{chamada_servico/{id}}
 PS: Fazer POST utilizando formato JSON.
