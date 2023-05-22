@@ -40,7 +40,7 @@ cd src
 
 # CRUD realizado através da implementação de objetos no Spring ou através de chamadas no serviço pelo Postman. 
 ```
-AS requisições ao webservice são realizadas pela URL: http://localhost:8080/{chamada_servico/{id}}
+AS requisições ao webservice são realizadas pela URL: http://localhost:8080/{chamada_servico}/{id}}
 PS: Fazer POST utilizando formato JSON.
 ```
 ![image](https://github.com/DiegoClemente/workshop-springboot3-jpa/assets/22910400/1b66e023-7131-4c14-98af-de1f3aec5274)
