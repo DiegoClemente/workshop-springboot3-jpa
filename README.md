@@ -26,7 +26,7 @@ Através da aplicação é realizado o popular do banco de dados através do CRU
 # Como executar o projeto:
 
 ```bash
-# clonar repositório
+# clonar repositório https://github.com/DiegoClemente/workshop-springboot3-jpa.git
 git clone 
 
 # Acessar a pasta do projeto
